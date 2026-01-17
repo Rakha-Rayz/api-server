@@ -1,4 +1,8 @@
 # API-SERVER 
+![License](https://img.shields.io/github/license/Rakha-Rayz/api-server)
+![Repo Size](https://img.shields.io/github/repo-size/Rakha-Rayz/api-server)
+![Last Commit](https://img.shields.io/github/last-commit/Rakha-Rayz/api-server)
+![Stars](https://img.shields.io/github/stars/Rakha-Rayz/api-server?style=social)
 
 ## Feature 🚀
 1. Can create API key🔥
